@@ -1,2 +1,2 @@
 //test
-//Typed this in GitHub, not processing
+//Typed this in GitHub, not Processing IDE
