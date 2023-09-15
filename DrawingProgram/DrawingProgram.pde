@@ -1,2 +1,11 @@
-//test
-//Typed this in GitHub, not Processing IDE
+//Global Variables
+//
+void setup() {} //End setup
+//
+void draw() {} //End draw
+//
+void keyPressed() {} //End keyPressed
+//
+void mousePressed() {} //End mousePressed
+//
+//End MAIN Program
